@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/talha00"><img src="https://api.daily.dev/devcards/d8aa01dc64454d158d62647a96050325.png?r=xeo" width="400" alt="Talha Amir's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Talha Amir</h1>
 <h3 align="center">A passionate Python | Backend Developer from Pakistan</h3>
 
